@@ -6,7 +6,7 @@
 - 💻 Atualmente desenvolvendo com **Laravel + Vue 3**
 - 🔭 Trabalhando em projetos próprios e consultorias via SmartTechEnterprise
 - 🌱 Sempre aprendendo sobre DevOps, testes e boas práticas
-- 📫 Me encontre no WhatsApp: [Fale comigo!](https://wa.me/SEUNUMEROAQUI)
+- 📫 Me encontre no Linkedin: [Fale comigo!]([https://wa.me/SEUNUMEROAQUI](https://www.linkedin.com/in/yuri-queiroz-77552419a/))
 - 💼 [Portfólio](https://projeto-portifolio-weld-seven.vercel.app/)
 
 ---
