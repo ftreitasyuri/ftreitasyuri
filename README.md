@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Yuri Freitas</h1>
-<h3 align="center">Desenvolvedor Full Stack | PHP | JavaScript | Laravel | Vue.js</h3>
+<h3 align="center">Desenvolvedor Full Stack Python | PHP | JavaScript | Laravel | Vue.js</h3>
 
 ---
 
