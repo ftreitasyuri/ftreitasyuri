@@ -3,7 +3,7 @@
 
 ---
 
-- 💻 Atualmente desenvolvendo com **Laravel + Vue 3**
+- 💻 Atualmente desenvolvendo com **Python, PHP e JavaScript**
 - 🔭 Trabalhando em projetos próprios e consultorias via SmartTechEnterprise
 - 🌱 Sempre aprendendo sobre DevOps, testes e boas práticas
 - 📫 Me encontre no Linkedin: [Fale comigo!]([https://wa.me/SEUNUMEROAQUI](https://www.linkedin.com/in/yuri-queiroz-77552419a/))
