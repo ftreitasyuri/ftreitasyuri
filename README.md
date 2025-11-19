@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Yuri Freitas</h1>
 <h3 align="center">Desenvolvedor Full Stack Python</h3>
-<h4> Estudando PHP com Laravel | JavaScript com Vue.js </h4>
+<h4 align="center"> Estudando PHP com Laravel | JavaScript com Vue.js </h4>
 
 ---
 
